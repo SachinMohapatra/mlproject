@@ -1,4 +1,6 @@
 import sys   #use to manipulate python run time env
+from src.logger import logging
+
 
 def error_message_detail(error, error_detail:sys):
     _,_,exc_tb = error_detail.exc_info()  #python stores 3 things when an error happens (type, value, traceback) we are ignoring first 2 here and we are storing traceback
