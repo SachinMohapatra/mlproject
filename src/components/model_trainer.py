@@ -91,7 +91,12 @@ class ModelTrainer:
 
 
 
-            model_report:dict=evaluate_models(X_train=X_train,y_train=y_train,X_test=X_test,y_test=y_test,models=models,param = params)
+            model_report, best_models=evaluate_models(X_train=X_train,
+                                              y_train=y_train,
+                                              X_test=X_test,
+                                              y_test=y_test,
+                                              models=models,
+                                              param = params)
 
             best_model_score = max(sorted(model_report.values()))
 
@@ -99,7 +104,7 @@ class ModelTrainer:
                 list(model_report.values()).index(best_model_score)
             ]
 
-            best_model = models[best_model_name]
+            best_model = best_models[best_model_name]
 
             if best_model_score<0.6:
                 raise CustomException("No best model found", sys)
