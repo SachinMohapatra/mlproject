@@ -1,0 +1,92 @@
+Category 1: Core Python & Logic (Foundation)
+
+Prime number checker
+Palindrome checker
+Fibonacci generator
+Anagram checker
+Password generator
+Random string generator
+Basic calculator
+Number guessing game
+Dice simulator
+URL validator
+
+
+🔹 🌐 Category 2: API-Based Scripts (CRITICAL FOR AI)
+
+Weather API **
+Currency converter API
+Random quote generator API
+IP location tracker
+URL shortener API
+News API fetcher
+GitHub user data fetcher
+Stock price checker API
+Joke generator API
+Translation API script
+
+
+🔹 🕸️ Category 3: Web Scraping (RAG FOUNDATION 🔥)
+
+Wikipedia scraper
+News scraper
+Amazon product scraper
+Job listing scraper
+Blog content scraper
+YouTube title scraper
+IMDB scraper
+Weather scraping (HTML)
+Quotes scraping
+Image downloader
+
+
+🔹 📊 Category 4: Data Processing (ML Ready ✅)
+
+CSV reader/writer
+JSON parser
+Log analyzer
+Data cleaner script
+Duplicate remover
+Text file analyzer
+Word frequency counter
+Data sorter/filter
+File merger script
+Basic ETL script (extract-transform-load)
+
+
+🔹 ⚙️ Category 5: Automation & OS Scripts (REAL WORLD ✅)
+
+File organizer
+Bulk file renamer
+Folder size calculator
+System info script
+Clipboard manager
+
+
+🔹 🤖 Category 6: AI-Adjacent & Advanced Patterns
+
+Rule-based chatbot
+Email sender (SMTP)
+Task scheduler script
+CLI tool builder
+Multi-script automation runner
+
+
+
+
+11, 12, 13, 16
+21, 22, 29
+31, 32, 33, 37
+41, 42, 47
+49, 50	
+
+
+tomorrow:
+18 - python + sql
+2 - scripts
+complete transformers
+start with Rag 
+
+
+I am feeling too much pressure, when is it going to end? My life has too much turmoil now!!
+but I know one day I will be happy!! I hope that day comes soon. I hope god will be with me
